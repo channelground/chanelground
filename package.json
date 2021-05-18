@@ -1,0 +1,14 @@
+{
+  "name": "channelground",
+  "version": "1.0.0",
+  "description": "channelground is a community platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anhyeonki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
